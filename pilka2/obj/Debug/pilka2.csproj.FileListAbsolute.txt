@@ -1,0 +1,20 @@
+C:\Users\Kacper\Desktop\projekty c#\pilka2\bin\Debug\pilka2.exe.config
+C:\Users\Kacper\Desktop\projekty c#\pilka2\bin\Debug\pilka2.exe
+C:\Users\Kacper\Desktop\projekty c#\pilka2\bin\Debug\pilka2.pdb
+C:\Users\Kacper\Desktop\projekty c#\pilka2\obj\Debug\pilka2.csproj.AssemblyReference.cache
+C:\Users\Kacper\Desktop\projekty c#\pilka2\obj\Debug\pilka2.Properties.Resources.resources
+C:\Users\Kacper\Desktop\projekty c#\pilka2\obj\Debug\pilka2.csproj.GenerateResource.cache
+C:\Users\Kacper\Desktop\projekty c#\pilka2\obj\Debug\pilka2.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\projekty c#\pilka2\obj\Debug\pilka2.exe
+C:\Users\Kacper\Desktop\projekty c#\pilka2\obj\Debug\pilka2.pdb
+C:\Users\Kacper\Desktop\projekty c#\pilka2\obj\Debug\pilka2.Form1.resources
+C:\Users\3tp2grWegrzynKacper\Desktop\c#\pilka2\bin\Debug\pilka2.exe.config
+C:\Users\3tp2grWegrzynKacper\Desktop\c#\pilka2\bin\Debug\pilka2.exe
+C:\Users\3tp2grWegrzynKacper\Desktop\c#\pilka2\bin\Debug\pilka2.pdb
+C:\Users\3tp2grWegrzynKacper\Desktop\c#\pilka2\obj\Debug\pilka2.csproj.AssemblyReference.cache
+C:\Users\3tp2grWegrzynKacper\Desktop\c#\pilka2\obj\Debug\pilka2.Form1.resources
+C:\Users\3tp2grWegrzynKacper\Desktop\c#\pilka2\obj\Debug\pilka2.Properties.Resources.resources
+C:\Users\3tp2grWegrzynKacper\Desktop\c#\pilka2\obj\Debug\pilka2.csproj.GenerateResource.cache
+C:\Users\3tp2grWegrzynKacper\Desktop\c#\pilka2\obj\Debug\pilka2.csproj.CoreCompileInputs.cache
+C:\Users\3tp2grWegrzynKacper\Desktop\c#\pilka2\obj\Debug\pilka2.exe
+C:\Users\3tp2grWegrzynKacper\Desktop\c#\pilka2\obj\Debug\pilka2.pdb

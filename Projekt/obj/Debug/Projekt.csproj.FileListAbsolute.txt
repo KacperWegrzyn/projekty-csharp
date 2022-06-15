@@ -1,0 +1,85 @@
+C:\Users\Kacper\Desktop\sql lite\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Kacper\Desktop\sql lite\Projekt\bin\Debug\Projekt.exe
+C:\Users\Kacper\Desktop\sql lite\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Kacper\Desktop\sql lite\Projekt\bin\Debug\EntityFramework.dll
+C:\Users\Kacper\Desktop\sql lite\Projekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kacper\Desktop\sql lite\Projekt\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kacper\Desktop\sql lite\Projekt\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Kacper\Desktop\sql lite\Projekt\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Kacper\Desktop\sql lite\Projekt\bin\Debug\EntityFramework.xml
+C:\Users\Kacper\Desktop\sql lite\Projekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kacper\Desktop\sql lite\Projekt\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kacper\Desktop\sql lite\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\Kacper\Desktop\sql lite\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\Kacper\Desktop\sql lite\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Kacper\Desktop\sql lite\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Kacper\Desktop\sql lite\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\sql lite\Projekt\obj\Debug\Projekt.exe
+C:\Users\Kacper\Desktop\sql lite\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Kacper\Desktop\sql lite\Projekt\obj\Debug\Projekt.Dodawanie.resources
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\obj\Debug\Projekt.Dodawanie.resources
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\obj\Debug\Projekt.Modyfikowanie.resources
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\obj\Debug\Projekt.exe
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\obj\Debug\Projekt.pdb
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\bin\Debug\Projekt.exe
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\bin\Debug\Projekt.pdb
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\bin\Debug\EntityFramework.dll
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\bin\Debug\System.Data.SQLite.dll
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\bin\Debug\EntityFramework.xml
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\3tp2grWegrzynKacper\Desktop\sql\Projekt\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kacper\Desktop\sql lite\Projekt\obj\Debug\Projekt.Modyfikowanie.resources
+C:\Users\Kacper\Desktop\sql lite\Projekt\obj\Debug\Projekt.Pozyczki.resources
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\bin\Debug\Projekt.exe
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\bin\Debug\Projekt.pdb
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\bin\Debug\EntityFramework.dll
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\bin\Debug\System.Data.SQLite.dll
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\bin\Debug\EntityFramework.xml
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\bin\Debug\System.Data.SQLite.xml
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\obj\Debug\Projekt.Dodawanie.resources
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\obj\Debug\Projekt.Modyfikowanie.resources
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\obj\Debug\Projekt.Pozyczki.resources
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\obj\Debug\Projekt.exe
+C:\Users\3tp2grWegrzynKacper\Desktop\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Kacper\Desktop\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Kacper\Desktop\Projekt\bin\Debug\Projekt.exe
+C:\Users\Kacper\Desktop\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Kacper\Desktop\Projekt\bin\Debug\EntityFramework.dll
+C:\Users\Kacper\Desktop\Projekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kacper\Desktop\Projekt\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kacper\Desktop\Projekt\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Kacper\Desktop\Projekt\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Kacper\Desktop\Projekt\bin\Debug\EntityFramework.xml
+C:\Users\Kacper\Desktop\Projekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kacper\Desktop\Projekt\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kacper\Desktop\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\Kacper\Desktop\Projekt\obj\Debug\Projekt.Dodawanie.resources
+C:\Users\Kacper\Desktop\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\Kacper\Desktop\Projekt\obj\Debug\Projekt.Modyfikowanie.resources
+C:\Users\Kacper\Desktop\Projekt\obj\Debug\Projekt.Pozyczki.resources
+C:\Users\Kacper\Desktop\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Kacper\Desktop\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Kacper\Desktop\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\Projekt\obj\Debug\Projekt.exe
+C:\Users\Kacper\Desktop\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Kacper\Desktop\Projekt\obj\Debug\Projekt.Dodaj_pozyczke.resources
+C:\Users\Kacper\Desktop\Projekt\obj\Debug\Projekt.Splaty.resources

@@ -1,0 +1,11 @@
+C:\Users\Kacper\Desktop\projekty c#\formularz\bin\Debug\formularz.exe.config
+C:\Users\Kacper\Desktop\projekty c#\formularz\bin\Debug\formularz.exe
+C:\Users\Kacper\Desktop\projekty c#\formularz\bin\Debug\formularz.pdb
+C:\Users\Kacper\Desktop\projekty c#\formularz\obj\Debug\formularz.csproj.AssemblyReference.cache
+C:\Users\Kacper\Desktop\projekty c#\formularz\obj\Debug\formularz.Form1.resources
+C:\Users\Kacper\Desktop\projekty c#\formularz\obj\Debug\formularz.Properties.Resources.resources
+C:\Users\Kacper\Desktop\projekty c#\formularz\obj\Debug\formularz.csproj.GenerateResource.cache
+C:\Users\Kacper\Desktop\projekty c#\formularz\obj\Debug\formularz.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\projekty c#\formularz\obj\Debug\formularz.exe
+C:\Users\Kacper\Desktop\projekty c#\formularz\obj\Debug\formularz.pdb
+C:\Users\Kacper\Desktop\projekty c#\formularz\obj\Debug\formularz.Form2.resources
